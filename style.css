@@ -299,14 +299,3 @@ body {
 .attribution a{
     color: hsl(288, 45%, 44%);
 }
-@media (max-width:370px){
-    
-    #app{
-        width: 50%;
-        display:block;
-    }
-    .product-card{
-        display: flex;
-        flex-direction: row;
-    }
-}
